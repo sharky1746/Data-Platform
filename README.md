@@ -4,10 +4,12 @@
 
 
 □ 플랫폼 컨셉 및 구성
+
 ㅇ 협업 특화 메신저 기반 플랫폼 (MaaP: Messenger as a Platform)
 - 밸류체인 내 필수 공유 데이터(PQCD)의 영향을 반영하며 다양한 정보화 수준을 가진 밸류체인 기업들 간의 효과적인 협업 지원 통합 커뮤니케이션 인프라
 
 그림  메신저 기반 플랫폼(Messenger as a Platform)
+
 ![image](https://github.com/user-attachments/assets/9f67bcd9-708f-4c49-9abf-43b1bd8eecf9)
 
 
@@ -30,7 +32,11 @@
 - 기존의 레거시시스템과의 빠른 연동 체계 구축
 ㅇ AUTODA(데이터 공유 플랫폼) 랜딩 페이지
 - 주요 서비스: 대시보드, 채팅, 생산 모니터링, 생산일보, 재고관리, What-if simulator, Work Manager, 클레이독스, 관계망, 공정정보, 작업기준정보
+  
 ![image](https://github.com/user-attachments/assets/785f06cd-83f1-422c-a608-a014516ceba5)
+
+
+
 
 
 □ 주요 서비스 내용
@@ -48,6 +54,7 @@
 - 특정 시간 동안의 생산 활동에 대한 종합 보고서 조회
 
 그림  데이터 공유 서비스 – 생산일보 조회 화면
+
 ![image](https://github.com/user-attachments/assets/737a2c84-6fa0-4e35-8846-69afcb32d526)
 
 - 생산일보 데이터를 디지털 베이스로 관리하고 플랫폼을 통해 업체 간 공유함으로써 생산 품질, 납기 등의 핵심 지표인 PQCD를 관리
@@ -87,6 +94,7 @@ AI 분석 서비스      자연어 AI 분석         이미지 AI 분석        
 
 
 ⑥ What-if Simulator 별첨 06 what if simulator
+
 ![image](https://github.com/user-attachments/assets/2b8d0c13-70a0-4b8d-99a7-d445489f57a0)
 
 - 디지털 트윈을 적용해 밸류체인내 기업들 모델 구축하여 생산 시뮬레이션 수행
@@ -109,9 +117,11 @@ AI 분석 서비스      자연어 AI 분석         이미지 AI 분석        
 - 시험성적서 작성 자동화 및 테스트 데이터 및 시험 성적서 통합관리 서비스
 
 그림  시험성적서 작성 기능 개발
+
   ![image](https://github.com/user-attachments/assets/aa36c327-6455-41d5-a1e3-0a61666a4c99)
 
 그림  Claydox 활용 시험성적서
+
 ![image](https://github.com/user-attachments/assets/f68edb37-b8e7-462d-a0e6-2fa9d0a96dd2)
 
 

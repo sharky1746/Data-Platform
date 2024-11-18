@@ -25,6 +25,7 @@
 - 제조데이터 수집·저장을 위한 메신저 플랫폼 및 관리·분석을 위한 SW 서비스 
 
 그림  AUTODA(데이터 공유 플랫폼) 구성도
+
 ![image](https://github.com/user-attachments/assets/29d1abe3-bcd2-4e27-bdf3-e5ae76204524)
 
 
